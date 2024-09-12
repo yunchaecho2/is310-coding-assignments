@@ -1,0 +1,1 @@
+"Welcome to Sophia's Maze! You need to find the password to escape from this maze. Once you enter, there are two pathways, and only one of them is the correct way out! Good luck on your journey!"

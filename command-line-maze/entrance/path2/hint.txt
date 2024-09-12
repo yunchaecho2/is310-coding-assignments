@@ -1,0 +1,1 @@
+"You are almost there! However, this is not the correct path to the password. To find it, you should go back to the starting point (command-line-maze directory) and use ls -a in your command line."
