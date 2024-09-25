@@ -13,3 +13,10 @@
 3. VS Code
 
 ![VS Code Installation](images/vscode-installation.png)
+
+4. Hypothesis 
+![Hypothesis Installation](images/hypothesis-installation.png)
+
+5. Discord 
+![Discord Installation](images/discord-installation.png)
+
